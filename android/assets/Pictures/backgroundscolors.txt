@@ -2,3 +2,4 @@
 #000000 - line 0 0 0 (RGB)
 #6D48D7 - menu 109 72 215 (RGB)
 #6F81D6 - market 111 129 214 (RGB)
+#8A6ED7 - icon
