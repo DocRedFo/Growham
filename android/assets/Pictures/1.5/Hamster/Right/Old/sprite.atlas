@@ -1,0 +1,1253 @@
+
+sprite.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+file_000.kl2eT
+  rotate: false
+  xy: 2, 454
+  size: 668, 450
+  orig: 668, 450
+  offset: 0, 0
+  index: -1
+file_001.9jdj2
+  rotate: false
+  xy: 2, 2
+  size: 668, 450
+  orig: 668, 450
+  offset: 0, 0
+  index: -1
+
+sprite2.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+file_002.ny4SD
+  rotate: false
+  xy: 2, 454
+  size: 668, 450
+  orig: 668, 450
+  offset: 0, 0
+  index: -1
+file_003.LUTvx
+  rotate: false
+  xy: 2, 2
+  size: 668, 450
+  orig: 668, 450
+  offset: 0, 0
+  index: -1
+
+sprite3.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+file_004.pydig
+  rotate: false
+  xy: 2, 454
+  size: 668, 450
+  orig: 668, 450
+  offset: 0, 0
+  index: -1
+file_005.xBCvs
+  rotate: false
+  xy: 2, 2
+  size: 668, 450
+  orig: 668, 450
+  offset: 0, 0
+  index: -1
+
+sprite4.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+file_006.A54NS
+  rotate: false
+  xy: 2, 454
+  size: 668, 450
+  orig: 668, 450
+  offset: 0, 0
+  index: -1
+file_007.3WFDJ
+  rotate: false
+  xy: 2, 2
+  size: 668, 450
+  orig: 668, 450
+  offset: 0, 0
+  index: -1
+
+sprite5.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+file_008.CRCG3
+  rotate: false
+  xy: 2, 454
+  size: 668, 450
+  orig: 668, 450
+  offset: 0, 0
+  index: -1
+file_009.KEP0l
+  rotate: false
+  xy: 2, 2
+  size: 668, 450
+  orig: 668, 450
+  offset: 0, 0
+  index: -1
+
+sprite6.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+file_010.fndvy
+  rotate: false
+  xy: 2, 454
+  size: 668, 450
+  orig: 668, 450
+  offset: 0, 0
+  index: -1
+file_011.4G6iK
+  rotate: false
+  xy: 2, 2
+  size: 668, 450
+  orig: 668, 450
+  offset: 0, 0
+  index: -1
+
+sprite7.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+file_012.w7kpG
+  rotate: false
+  xy: 2, 454
+  size: 668, 450
+  orig: 668, 450
+  offset: 0, 0
+  index: -1
+file_013.bTGxJ
+  rotate: false
+  xy: 2, 2
+  size: 668, 450
+  orig: 668, 450
+  offset: 0, 0
+  index: -1
+
+sprite8.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+file_014.v8wYI
+  rotate: false
+  xy: 2, 454
+  size: 668, 450
+  orig: 668, 450
+  offset: 0, 0
+  index: -1
+file_015.5bPoc
+  rotate: false
+  xy: 2, 2
+  size: 668, 450
+  orig: 668, 450
+  offset: 0, 0
+  index: -1
+
+sprite9.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+file_016.NxU3J
+  rotate: false
+  xy: 2, 454
+  size: 668, 450
+  orig: 668, 450
+  offset: 0, 0
+  index: -1
+file_017.qss3N
+  rotate: false
+  xy: 2, 2
+  size: 668, 450
+  orig: 668, 450
+  offset: 0, 0
+  index: -1
+
+sprite10.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+file_018.hkH08
+  rotate: false
+  xy: 2, 454
+  size: 668, 450
+  orig: 668, 450
+  offset: 0, 0
+  index: -1
+file_019.aeqbw
+  rotate: false
+  xy: 2, 2
+  size: 668, 450
+  orig: 668, 450
+  offset: 0, 0
+  index: -1
+
+sprite11.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+file_020.E5oPg
+  rotate: false
+  xy: 2, 454
+  size: 668, 450
+  orig: 668, 450
+  offset: 0, 0
+  index: -1
+file_021.aZZPS
+  rotate: false
+  xy: 2, 2
+  size: 668, 450
+  orig: 668, 450
+  offset: 0, 0
+  index: -1
+
+sprite12.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+file_022.BsDSJ
+  rotate: false
+  xy: 2, 454
+  size: 668, 450
+  orig: 668, 450
+  offset: 0, 0
+  index: -1
+file_023.pABTl
+  rotate: false
+  xy: 2, 2
+  size: 668, 450
+  orig: 668, 450
+  offset: 0, 0
+  index: -1
+
+sprite13.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+file_024.oAav6
+  rotate: false
+  xy: 2, 454
+  size: 668, 450
+  orig: 668, 450
+  offset: 0, 0
+  index: -1
+file_025.Lja2n
+  rotate: false
+  xy: 2, 2
+  size: 668, 450
+  orig: 668, 450
+  offset: 0, 0
+  index: -1
+
+sprite14.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+file_026.OG3tD
+  rotate: false
+  xy: 2, 454
+  size: 668, 450
+  orig: 668, 450
+  offset: 0, 0
+  index: -1
+file_027.RIN3W
+  rotate: false
+  xy: 2, 2
+  size: 668, 450
+  orig: 668, 450
+  offset: 0, 0
+  index: -1
+
+sprite15.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+file_028.VnbcF
+  rotate: false
+  xy: 2, 454
+  size: 668, 450
+  orig: 668, 450
+  offset: 0, 0
+  index: -1
+file_029.3dMnX
+  rotate: false
+  xy: 2, 2
+  size: 668, 450
+  orig: 668, 450
+  offset: 0, 0
+  index: -1
+
+sprite16.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+file_030.Vm2vR
+  rotate: false
+  xy: 2, 454
+  size: 668, 450
+  orig: 668, 450
+  offset: 0, 0
+  index: -1
+file_031.Yntt5
+  rotate: false
+  xy: 2, 2
+  size: 668, 450
+  orig: 668, 450
+  offset: 0, 0
+  index: -1
+
+sprite17.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+file_032.1jD7N
+  rotate: false
+  xy: 2, 454
+  size: 668, 450
+  orig: 668, 450
+  offset: 0, 0
+  index: -1
+file_033.CYpTa
+  rotate: false
+  xy: 2, 2
+  size: 668, 450
+  orig: 668, 450
+  offset: 0, 0
+  index: -1
+
+sprite18.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+file_034.nQHb6
+  rotate: false
+  xy: 2, 454
+  size: 668, 450
+  orig: 668, 450
+  offset: 0, 0
+  index: -1
+file_035.9lP8y
+  rotate: false
+  xy: 2, 2
+  size: 668, 450
+  orig: 668, 450
+  offset: 0, 0
+  index: -1
+
+sprite19.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+file_036.DAsHn
+  rotate: false
+  xy: 2, 454
+  size: 668, 450
+  orig: 668, 450
+  offset: 0, 0
+  index: -1
+file_037.s2ihm
+  rotate: false
+  xy: 2, 2
+  size: 668, 450
+  orig: 668, 450
+  offset: 0, 0
+  index: -1
+
+sprite20.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+file_038.O9Jnn
+  rotate: false
+  xy: 2, 454
+  size: 668, 450
+  orig: 668, 450
+  offset: 0, 0
+  index: -1
+file_039.AXUvy
+  rotate: false
+  xy: 2, 2
+  size: 668, 450
+  orig: 668, 450
+  offset: 0, 0
+  index: -1
+
+sprite21.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+file_040.f6Yd9
+  rotate: false
+  xy: 2, 454
+  size: 668, 450
+  orig: 668, 450
+  offset: 0, 0
+  index: -1
+file_041.cTDSS
+  rotate: false
+  xy: 2, 2
+  size: 668, 450
+  orig: 668, 450
+  offset: 0, 0
+  index: -1
+
+sprite22.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+file_042.R8VCT
+  rotate: false
+  xy: 2, 454
+  size: 668, 450
+  orig: 668, 450
+  offset: 0, 0
+  index: -1
+file_043.f9Uek
+  rotate: false
+  xy: 2, 2
+  size: 668, 450
+  orig: 668, 450
+  offset: 0, 0
+  index: -1
+
+sprite23.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+file_044.F2eDg
+  rotate: false
+  xy: 2, 454
+  size: 668, 450
+  orig: 668, 450
+  offset: 0, 0
+  index: -1
+file_045.KfM2s
+  rotate: false
+  xy: 2, 2
+  size: 668, 450
+  orig: 668, 450
+  offset: 0, 0
+  index: -1
+
+sprite24.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+file_046.nAn0O
+  rotate: false
+  xy: 2, 454
+  size: 668, 450
+  orig: 668, 450
+  offset: 0, 0
+  index: -1
+file_047.PWwPD
+  rotate: false
+  xy: 2, 2
+  size: 668, 450
+  orig: 668, 450
+  offset: 0, 0
+  index: -1
+
+sprite25.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+file_048.INi12
+  rotate: false
+  xy: 2, 454
+  size: 668, 450
+  orig: 668, 450
+  offset: 0, 0
+  index: -1
+file_049.OmEcO
+  rotate: false
+  xy: 2, 2
+  size: 668, 450
+  orig: 668, 450
+  offset: 0, 0
+  index: -1
+
+sprite26.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+file_050.oVgDm
+  rotate: false
+  xy: 2, 454
+  size: 668, 450
+  orig: 668, 450
+  offset: 0, 0
+  index: -1
+file_051.YW5wB
+  rotate: false
+  xy: 2, 2
+  size: 668, 450
+  orig: 668, 450
+  offset: 0, 0
+  index: -1
+
+sprite27.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+file_052.bhhUP
+  rotate: false
+  xy: 2, 454
+  size: 668, 450
+  orig: 668, 450
+  offset: 0, 0
+  index: -1
+file_053.sHdjw
+  rotate: false
+  xy: 2, 2
+  size: 668, 450
+  orig: 668, 450
+  offset: 0, 0
+  index: -1
+
+sprite28.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+file_054.vMnom
+  rotate: false
+  xy: 2, 454
+  size: 668, 450
+  orig: 668, 450
+  offset: 0, 0
+  index: -1
+file_055.Eaxdl
+  rotate: false
+  xy: 2, 2
+  size: 668, 450
+  orig: 668, 450
+  offset: 0, 0
+  index: -1
+
+sprite29.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+file_056.pLm1D
+  rotate: false
+  xy: 2, 454
+  size: 668, 450
+  orig: 668, 450
+  offset: 0, 0
+  index: -1
+file_057.hjf7Z
+  rotate: false
+  xy: 2, 2
+  size: 668, 450
+  orig: 668, 450
+  offset: 0, 0
+  index: -1
+
+sprite30.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+file_058.yLGdA
+  rotate: false
+  xy: 2, 454
+  size: 668, 450
+  orig: 668, 450
+  offset: 0, 0
+  index: -1
+file_059.jaqht
+  rotate: false
+  xy: 2, 2
+  size: 668, 450
+  orig: 668, 450
+  offset: 0, 0
+  index: -1
+
+sprite31.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+file_060.TilAp
+  rotate: false
+  xy: 2, 454
+  size: 668, 450
+  orig: 668, 450
+  offset: 0, 0
+  index: -1
+file_061.q8xmx
+  rotate: false
+  xy: 2, 2
+  size: 668, 450
+  orig: 668, 450
+  offset: 0, 0
+  index: -1
+
+sprite32.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+file_062.pRumW
+  rotate: false
+  xy: 2, 454
+  size: 668, 450
+  orig: 668, 450
+  offset: 0, 0
+  index: -1
+file_063.Fee3o
+  rotate: false
+  xy: 2, 2
+  size: 668, 450
+  orig: 668, 450
+  offset: 0, 0
+  index: -1
+
+sprite33.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+file_064.WU1WX
+  rotate: false
+  xy: 2, 454
+  size: 668, 450
+  orig: 668, 450
+  offset: 0, 0
+  index: -1
+file_065.HH3YU
+  rotate: false
+  xy: 2, 2
+  size: 668, 450
+  orig: 668, 450
+  offset: 0, 0
+  index: -1
+
+sprite34.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+file_066.C2ZPM
+  rotate: false
+  xy: 2, 454
+  size: 668, 450
+  orig: 668, 450
+  offset: 0, 0
+  index: -1
+file_067.DUWIo
+  rotate: false
+  xy: 2, 2
+  size: 668, 450
+  orig: 668, 450
+  offset: 0, 0
+  index: -1
+
+sprite35.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+file_068.Wpr3V
+  rotate: false
+  xy: 2, 454
+  size: 668, 450
+  orig: 668, 450
+  offset: 0, 0
+  index: -1
+file_069.pAj9f
+  rotate: false
+  xy: 2, 2
+  size: 668, 450
+  orig: 668, 450
+  offset: 0, 0
+  index: -1
+
+sprite36.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+file_070.xp98r
+  rotate: false
+  xy: 2, 454
+  size: 668, 450
+  orig: 668, 450
+  offset: 0, 0
+  index: -1
+file_071.TT0Nf
+  rotate: false
+  xy: 2, 2
+  size: 668, 450
+  orig: 668, 450
+  offset: 0, 0
+  index: -1
+
+sprite37.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+file_072.mMIl3
+  rotate: false
+  xy: 2, 454
+  size: 668, 450
+  orig: 668, 450
+  offset: 0, 0
+  index: -1
+file_073.EjYuT
+  rotate: false
+  xy: 2, 2
+  size: 668, 450
+  orig: 668, 450
+  offset: 0, 0
+  index: -1
+
+sprite38.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+file_074.pY37J
+  rotate: false
+  xy: 2, 454
+  size: 668, 450
+  orig: 668, 450
+  offset: 0, 0
+  index: -1
+file_075.j1j82
+  rotate: false
+  xy: 2, 2
+  size: 668, 450
+  orig: 668, 450
+  offset: 0, 0
+  index: -1
+
+sprite39.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+file_076.i6rk8
+  rotate: false
+  xy: 2, 454
+  size: 668, 450
+  orig: 668, 450
+  offset: 0, 0
+  index: -1
+file_077.oA9gd
+  rotate: false
+  xy: 2, 2
+  size: 668, 450
+  orig: 668, 450
+  offset: 0, 0
+  index: -1
+
+sprite40.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+file_078.A0135
+  rotate: false
+  xy: 2, 454
+  size: 668, 450
+  orig: 668, 450
+  offset: 0, 0
+  index: -1
+file_079.0m3lJ
+  rotate: false
+  xy: 2, 2
+  size: 668, 450
+  orig: 668, 450
+  offset: 0, 0
+  index: -1
+
+sprite41.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+file_080.u3lTe
+  rotate: false
+  xy: 2, 454
+  size: 668, 450
+  orig: 668, 450
+  offset: 0, 0
+  index: -1
+file_081.xNyMA
+  rotate: false
+  xy: 2, 2
+  size: 668, 450
+  orig: 668, 450
+  offset: 0, 0
+  index: -1
+
+sprite42.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+file_082.3EAVZ
+  rotate: false
+  xy: 2, 454
+  size: 668, 450
+  orig: 668, 450
+  offset: 0, 0
+  index: -1
+file_083.zBov3
+  rotate: false
+  xy: 2, 2
+  size: 668, 450
+  orig: 668, 450
+  offset: 0, 0
+  index: -1
+
+sprite43.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+file_084.uorTS
+  rotate: false
+  xy: 2, 454
+  size: 668, 450
+  orig: 668, 450
+  offset: 0, 0
+  index: -1
+file_085.zYz1B
+  rotate: false
+  xy: 2, 2
+  size: 668, 450
+  orig: 668, 450
+  offset: 0, 0
+  index: -1
+
+sprite44.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+file_086.yZsih
+  rotate: false
+  xy: 2, 454
+  size: 668, 450
+  orig: 668, 450
+  offset: 0, 0
+  index: -1
+file_087.YmkVU
+  rotate: false
+  xy: 2, 2
+  size: 668, 450
+  orig: 668, 450
+  offset: 0, 0
+  index: -1
+
+sprite45.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+file_088.Dv14j
+  rotate: false
+  xy: 2, 454
+  size: 668, 450
+  orig: 668, 450
+  offset: 0, 0
+  index: -1
+file_089.DystL
+  rotate: false
+  xy: 2, 2
+  size: 668, 450
+  orig: 668, 450
+  offset: 0, 0
+  index: -1
+
+sprite46.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+file_090.4Me3f
+  rotate: false
+  xy: 2, 454
+  size: 668, 450
+  orig: 668, 450
+  offset: 0, 0
+  index: -1
+file_091.0LoHQ
+  rotate: false
+  xy: 2, 2
+  size: 668, 450
+  orig: 668, 450
+  offset: 0, 0
+  index: -1
+
+sprite47.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+file_092.p5cDM
+  rotate: false
+  xy: 2, 454
+  size: 668, 450
+  orig: 668, 450
+  offset: 0, 0
+  index: -1
+file_093.BsOjW
+  rotate: false
+  xy: 2, 2
+  size: 668, 450
+  orig: 668, 450
+  offset: 0, 0
+  index: -1
+
+sprite48.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+file_094.YYkoY
+  rotate: false
+  xy: 2, 454
+  size: 668, 450
+  orig: 668, 450
+  offset: 0, 0
+  index: -1
+file_095.pkaYH
+  rotate: false
+  xy: 2, 2
+  size: 668, 450
+  orig: 668, 450
+  offset: 0, 0
+  index: -1
+
+sprite49.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+file_096.qGpFy
+  rotate: false
+  xy: 2, 454
+  size: 668, 450
+  orig: 668, 450
+  offset: 0, 0
+  index: -1
+file_097.85YSX
+  rotate: false
+  xy: 2, 2
+  size: 668, 450
+  orig: 668, 450
+  offset: 0, 0
+  index: -1
+
+sprite50.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+file_098.uv9Bs
+  rotate: false
+  xy: 2, 454
+  size: 668, 450
+  orig: 668, 450
+  offset: 0, 0
+  index: -1
+file_099.SWALT
+  rotate: false
+  xy: 2, 2
+  size: 668, 450
+  orig: 668, 450
+  offset: 0, 0
+  index: -1
+
+sprite51.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+file_100.Xub4H
+  rotate: false
+  xy: 2, 454
+  size: 668, 450
+  orig: 668, 450
+  offset: 0, 0
+  index: -1
+file_101.3rvdd
+  rotate: false
+  xy: 2, 2
+  size: 668, 450
+  orig: 668, 450
+  offset: 0, 0
+  index: -1
+
+sprite52.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+file_102.iTq2L
+  rotate: false
+  xy: 2, 454
+  size: 668, 450
+  orig: 668, 450
+  offset: 0, 0
+  index: -1
+file_103.ricl5
+  rotate: false
+  xy: 2, 2
+  size: 668, 450
+  orig: 668, 450
+  offset: 0, 0
+  index: -1
+
+sprite53.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+file_104.6Lv9V
+  rotate: false
+  xy: 2, 454
+  size: 668, 450
+  orig: 668, 450
+  offset: 0, 0
+  index: -1
+file_105.UkOuR
+  rotate: false
+  xy: 2, 2
+  size: 668, 450
+  orig: 668, 450
+  offset: 0, 0
+  index: -1
+
+sprite54.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+file_106.PIFY8
+  rotate: false
+  xy: 2, 454
+  size: 668, 450
+  orig: 668, 450
+  offset: 0, 0
+  index: -1
+file_107.rDN4I
+  rotate: false
+  xy: 2, 2
+  size: 668, 450
+  orig: 668, 450
+  offset: 0, 0
+  index: -1
+
+sprite55.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+file_108.LYlf3
+  rotate: false
+  xy: 2, 454
+  size: 668, 450
+  orig: 668, 450
+  offset: 0, 0
+  index: -1
+file_109.0swiR
+  rotate: false
+  xy: 2, 2
+  size: 668, 450
+  orig: 668, 450
+  offset: 0, 0
+  index: -1
+
+sprite56.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+file_110.aId4f
+  rotate: false
+  xy: 2, 454
+  size: 668, 450
+  orig: 668, 450
+  offset: 0, 0
+  index: -1
+file_111.lb9Vd
+  rotate: false
+  xy: 2, 2
+  size: 668, 450
+  orig: 668, 450
+  offset: 0, 0
+  index: -1
+
+sprite57.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+file_112.1t9YC
+  rotate: false
+  xy: 2, 454
+  size: 668, 450
+  orig: 668, 450
+  offset: 0, 0
+  index: -1
+file_113.lOFwE
+  rotate: false
+  xy: 2, 2
+  size: 668, 450
+  orig: 668, 450
+  offset: 0, 0
+  index: -1
+
+sprite58.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+file_114.5XKTz
+  rotate: false
+  xy: 2, 454
+  size: 668, 450
+  orig: 668, 450
+  offset: 0, 0
+  index: -1
+file_115.JLmSB
+  rotate: false
+  xy: 2, 2
+  size: 668, 450
+  orig: 668, 450
+  offset: 0, 0
+  index: -1
+
+sprite59.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+file_116.6uVVp
+  rotate: false
+  xy: 2, 454
+  size: 668, 450
+  orig: 668, 450
+  offset: 0, 0
+  index: -1
+file_117.Gbkyr
+  rotate: false
+  xy: 2, 2
+  size: 668, 450
+  orig: 668, 450
+  offset: 0, 0
+  index: -1
+
+sprite60.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+file_118.i3B3Y
+  rotate: false
+  xy: 2, 454
+  size: 668, 450
+  orig: 668, 450
+  offset: 0, 0
+  index: -1
+file_119.b3iY4
+  rotate: false
+  xy: 2, 2
+  size: 668, 450
+  orig: 668, 450
+  offset: 0, 0
+  index: -1
+
+sprite61.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+file_120.jtDko
+  rotate: false
+  xy: 2, 454
+  size: 668, 450
+  orig: 668, 450
+  offset: 0, 0
+  index: -1
+file_121.HPdGN
+  rotate: false
+  xy: 2, 2
+  size: 668, 450
+  orig: 668, 450
+  offset: 0, 0
+  index: -1
+
+sprite62.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+file_122.B3XWO
+  rotate: false
+  xy: 2, 454
+  size: 668, 450
+  orig: 668, 450
+  offset: 0, 0
+  index: -1
+file_123.ElVbq
+  rotate: false
+  xy: 2, 2
+  size: 668, 450
+  orig: 668, 450
+  offset: 0, 0
+  index: -1
+
+sprite63.png
+size: 1024,512
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+file_124.ptus6
+  rotate: false
+  xy: 2, 2
+  size: 668, 450
+  orig: 668, 450
+  offset: 0, 0
+  index: -1
